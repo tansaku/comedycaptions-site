@@ -14,8 +14,8 @@ Official website for ComedyCaptions - AI-powered comedy video processing for Tik
 
 Once deployed to GitHub Pages at `https://yourusername.github.io/comedycaptions-site/`:
 
-- **Privacy Policy**: `https://yourusername.github.io/comedycaptions-site/#privacy`
-- **Terms of Service**: `https://yourusername.github.io/comedycaptions-site/#terms`
+- **Privacy Policy**: `https://yourusername.github.io/comedycaptions-site/privacy.html`
+- **Terms of Service**: `https://yourusername.github.io/comedycaptions-site/terms.html`
 
 ## Deployment
 
